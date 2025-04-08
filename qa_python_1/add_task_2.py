@@ -1,7 +1,6 @@
 def digit_root(num):
     sum = 0
     if num < 10:
-        print (num)
         return num
     else:
         while num > 9:
